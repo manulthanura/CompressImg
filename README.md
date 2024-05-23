@@ -7,7 +7,7 @@ The Image Compressor plugin automatically reduces the file size of your WEBP, JP
 ## Requirements
 - WordPress 5.0 or higher.
 - PHP 7.2 or higher.
-- Imagick PHP extension must be enabled on your hosting server.
+- Imagick PHP extension must be enabled on your hosting server - [Read this for more information](./Note.md)
 
 ## Installation Instructions
 ### From WordPress Dashboard (pending)
